@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MacroMate</string>
+    <string name="accessibility_description">Records accessible button clicks when recording is enabled and replays saved tap sequences at your request.</string>
+</resources>
